@@ -3,8 +3,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
-[![Stars](https://img.shields.io/github/stars/0pFlow/westcoast-scholar?style=flat)](https://github.com/0pFlow/westcoast-scholar/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/0pFlow/westcoast-scholar)](https://github.com/0pFlow/westcoast-scholar/commits/main)
+[![Stars](https://img.shields.io/github/stars/0pStack/westcoast-scholar?style=flat)](https://github.com/0pStack/westcoast-scholar/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/0pStack/westcoast-scholar)](https://github.com/0pStack/westcoast-scholar/commits/main)
 ![License](https://img.shields.io/badge/license-ISC-blue.svg)
 
 En mini-SaaS utbildningsplattform där studenter kan bläddra bland kurser och boka platser, och lärare kan administrera kursutbud och se inkomna bokningar. Byggd i vanilla JavaScript (ES modules) med Vite som dev-server/bundler och JSON Server som mock-backend.
@@ -73,7 +73,7 @@ Inga frontend-ramverk används — projektet är ett medvetet vanilla JS-bygge m
 ### Installation
 
 ```bash
-git clone https://github.com/0pFlow/westcoast-scholar.git
+git clone https://github.com/0pStack/westcoast-scholar.git
 cd westcoast-scholar
 npm install
 ```
